@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "username": "rahul123",
+        "address": "123, Sector 4, New Delhi, India",
+        "phone": "+91-9876543210"
+    },
+    {
+        "id": 2,
+        "name": "Anjali Verma",
+        "username": "anjali_verma",
+        "address": "456, MG Road, Mumbai, India",
+        "phone": "+91-9123456789"
+    },
+    {
+        "id": 3,
+        "name": "Vikram Singh",
+        "username": "vikram.singh",
+        "address": "789, JP Nagar, Bangalore, India",
+        "phone": "+91-9012345678"
+    },
+    {
+        "id": 4,
+        "name": "Sneha Kapoor",
+        "username": "sneha_kapoor",
+        "address": "101, Park Street, Kolkata, India",
+        "phone": "+91-9871234567"
+    },
+    {
+        "id": 5,
+        "name": "Amitabh Bose",
+        "username": "amitabh_b",
+        "address": "202, Residency Road, Chennai, India",
+        "phone": "+91-9019876543"
+    }
+]
